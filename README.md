@@ -1,6 +1,6 @@
 # WebCrawler
 
-Web crawler, ou Bot, é um algoritmo usado para analisar o código de um website em busca de informações, e depois usá-las para gerar insights ou classificar os dados encontrados.
+Web Crawler, ou Bot, é um algoritmo usado para analisar o código de um website em busca de informações, e depois usá-las para gerar insights ou classificar os dados encontrados.
 
 Um exemplo muito clássico de web crawler está nos sites de pesquisa, como Google, Bing e outros.
 
